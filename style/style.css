@@ -1,0 +1,291 @@
+*{
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#divone{
+    text-align: left;
+    padding-left: 10%;
+}
+.logo{
+    display: inline-block;
+    max-width: 40px;
+    min-width: 14px;
+}
+.mall{
+    display: inline-block;
+    max-width: 25px;
+    min-width: 5px;
+}
+.motors{
+    display: inline-block;
+    max-width: 30px;
+    min-width: 5px;
+}
+.building{
+    display: inline-block;
+    max-width: 30px;
+    min-width: 5px;
+}
+.properties{
+    display: inline-block;
+}
+.lione{
+    display: inline-block;
+    padding-left: 2%;
+}
+.litwo{
+    display: inline-block;
+    padding-left: 2%;
+}
+.lithree{
+    display: inline-block;
+    padding-left: 2%;
+}
+.lifour{
+    display: inline-block;
+    padding-left: 2%;
+}
+.done{
+    display: inline-block;
+    color: black;
+    font-size: 12PX;
+}
+.maindiv{
+    background-color: whitesmoke;
+}
+#mdiv1{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 7px;
+    padding-right: 100px;
+    background-color: whitesmoke;
+}
+#select1{
+    display: inline-block;
+    font-size: large;
+    border-radius: 4px;
+    border: none;
+    background-color: whitesmoke;
+}
+.search1{
+    display: inline-block;
+    width: 25px;
+    background-color: whitesmoke;
+}
+
+.search-box{
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 400px;
+    background-color: whitesmoke;
+
+}
+.search-txt{
+    display: inline-block;
+    font-size: large;
+    border: none;
+    background-color: whitesmoke;
+}
+.search-btn{
+    display: inline-block;
+    background-color: whitesmoke;
+}
+
+.dtwo{
+    padding-right: 55%;
+    background-color: whitesmoke;
+}
+.dthree{
+    font-size: 24px;
+}
+#maincontaner{
+    border: 1px solid white;
+    background-color: whitesmoke;
+    max-width: 100%;
+    justify-content: center;
+    padding: 20px;
+    padding-top: 20px;
+}
+.divone{
+    display: inline-block;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 6px;
+    max-width: 500px;
+}
+.divtwo{
+    display: block;
+}
+.divthree{
+    align-items: left;
+}
+.divfour{
+    text-align: left;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+.divfive{
+    text-align: left;
+    color: grey;
+    font-size: 14px;
+    padding: 10px;
+}
+.divsix{
+    display: block;
+}
+.divseven{
+    background-color: rgb(253, 207, 55);
+    border: 2px solid rgb(253, 207, 55);
+    font-size: 11px;
+    width: 60px;
+    display: inline-block;
+    position: relative;
+    top: -247px;
+    left: -101px;
+}
+.diveight{
+    display: inline-block;
+}
+.divnine1{
+    display: inline-block;
+    font-size: 10px;
+    color: grey;
+    padding-left: 10PX;
+}
+.divnine2{
+    display: inline-block;
+    font-size: 10px;
+    color: grey;
+    padding-left: 50PX;
+    padding-right: 10PX;
+}
+.img1{
+    max-width: 300px;
+    min-width: 10px;
+}
+.img2{
+    max-width: 68px;
+    min-width: 10px;
+}
+.img3{
+    max-width: 198px;
+    min-width: 10px;
+}
+.img4{
+    max-width: 198px;
+    min-width: 10px;
+}
+.img5{
+    max-width: 273px;
+    min-width: 10px;
+}
+.img6{
+    max-width: 221px;
+    min-width: 10px;
+}
+.img7{
+    max-width: 148px;
+    min-width: 10px;
+}
+.img8{
+    max-width: 111px;
+    min-width: 10px;
+}
+.img9{
+    max-width: 195px;
+    min-width: 10px;
+}
+.img10{
+    max-width: 274px;
+    min-width: 10px;
+}
+.img11{
+    max-width: 148.5px;
+    min-width: 10px;
+}
+.img12{
+    max-width: 208px;
+    min-width: 10px;
+}
+.img13{
+    max-width: 82.5px;
+    min-width: 10px;
+}
+.img14{
+    max-width: 301px;
+    min-width: 10px;
+}
+.img15{
+    max-width: 110px;
+    min-width: 10px;
+}
+.img16{
+    max-width: 195.8px;
+    min-width: 10px;
+}
+.img17{
+    max-width: 66.7px;
+    min-width: 10px;
+}
+.img18{
+    max-width: 210px;
+    min-width: 10px;
+}
+.img19{
+    max-width: 294px;
+    min-width: 10px;
+}
+.img20{
+    max-width: 264px;
+    min-width: 10px;
+}
+.img21{
+    max-width: 266.09px;
+    min-width: 10px;
+}
+.img22{
+    max-width: 209.4px;
+    min-width: 10px;
+}
+.img23{
+    max-width: 147.8px;
+    min-width: 10px;
+}
+.img24{
+    max-width: 118.66px;
+    min-width: 10px;
+}
+.img25{
+    max-width: 197px;
+    min-width: 10px;
+}
+
+.img26{
+    max-width: 111px;
+    min-width: 10px;
+}
+.img27{
+    max-width: 197px;
+    min-width: 10px;
+}
+.img28{
+    max-width: 197px;
+    min-width: 10px;
+}
+.img29{
+    max-width: 197px;
+    min-width: 10px;
+}
+.heart{
+    width: 30px;
+    border-radius: 50px;
+    position: relative;
+    top:  -235px;
+    left: 99px;
+}
+
